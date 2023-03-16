@@ -161,7 +161,7 @@ class _SpeechScreenState extends State<SpeechScreen> {
               height: 12,
             ),
             const Text(
-              "Developed by RAWMS",
+              "Developed by Rim Sohaib ayoub mohammed & Walid",
               style: TextStyle(
                   fontSize: 16,
                   color: Colors.black54,
