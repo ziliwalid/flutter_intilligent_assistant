@@ -2,7 +2,7 @@ import 'package:flutter_tts/flutter_tts.dart';
 
 class TextToSpeech{
   static FlutterTts tts = FlutterTts();
-
+//text to speach
   static initTTS(){
     tts.setLanguage("fr-FR");
     tts.setPitch(1.0);

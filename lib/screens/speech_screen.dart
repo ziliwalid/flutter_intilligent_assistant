@@ -107,14 +107,14 @@ class _SpeechScreenState extends State<SpeechScreen> {
 
       appBar: AppBar(
         leading: const Icon(
-          Icons.sort_rounded,
+          Icons.record_voice_over,
           color: Colors.white,
         ),
         centerTitle: true,
         backgroundColor: kBgColor,
         elevation: 0.0,
         title: const Text(
-          "ChatGPT voice assistant",
+          "EduSpeak+",
           style: TextStyle(fontWeight: FontWeight.w600, color: kTextColor),
         ),
       ),
@@ -161,7 +161,7 @@ class _SpeechScreenState extends State<SpeechScreen> {
               height: 12,
             ),
             const Text(
-              "Developed by Rim Sohaib ayoub mohammed & Walid",
+              "Developed by Swarm.dev",
               style: TextStyle(
                   fontSize: 16,
                   color: Colors.black54,

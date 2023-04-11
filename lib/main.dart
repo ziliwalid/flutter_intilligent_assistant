@@ -21,7 +21,7 @@ class MyApp extends StatelessWidget {
   @override
   Widget build(BuildContext context) {
     return MaterialApp(
-      title: 'ChatGPT VOice Assistant',
+      title: 'EduSpeak+',
       theme: ThemeData(
         primarySwatch: Colors.blue,
       ),
